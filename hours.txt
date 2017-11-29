@@ -1,3 +1,89 @@
-8.11.17 15-17 Stallen
-11.11.17 11-13 Stallen
-12.11.17 11-13 Stallen
+--- periode 27.01-12.03
+ons 1. mars
+ons 8. mars
+søn 12. mars
+
+--- periode 13.03-26.03
+ons 15. mars
+ons 22. mars
+søn 25. mars       12 t mars
+
+--- periode 27.03-09.04
+søn 2. april
+ons 5. april
+
+--- periode 10.04-23.04
+ons 19. april
+søn 23. april
+
+--- periode 24.04-07.05
+ons 28. april
+søn 30. april       12 t april
+ons 3. mai
+søn 7. mai
+
+--- periode 8.05-21.05
+ons 10. mai
+søn 14. mai
+søn 21. mai
+
+--- periode 22.05-04.06
+søn 31. mai          12 t mai
+søn 4. jun
+
+--- periode 05.06-18.06
+ons 7. jun
+søn 11. jun
+
+--- periode 19.06-02.07
+ons 21. jun
+søn 25. jun
+ons 28. jun          12 t jun
+
+--- periode 03.07-16.07
+
+--- periode 17.07-30.07
+ons 19. jul
+lør 22. jul
+søn 23. jul           6 t jul      ferier
+
+--- periode 31.07-13.08
+ons 2. aug
+
+--- periode 14.08-27.08
+ons 23. aug
+
+--- periode 28.08-10.09
+ons 30. aug           6 t aug       ferier
+ons 6. sep
+lør 9. sep
+
+--- periode 11.09-24.09
+ons 13. sep
+ons 20. sep
+lør 23. sep
+
+--- periode 25.09-08.10
+ons 27. sep           12 t sep        sykdom
+
+--- periode 09.10-22.10
+ons 18. okt
+lør 21. okt
+søn 22. okt
+
+--- periode 23.10-05.11
+ons 25.10.17 15-17 Stallen    8 t okt     sykdom
+ons 01.11.17 15-17 Stallen
+søn 05.11.17 11-13 Stallen
+
+--- periode 06.11-19.11
+ons 8.11.17 15-17 Stallen
+lør 11.11.17 11-13 Stallen
+sæn 12.11.17 11-13 Stallen
+
+--- periode 20.11-03.12
+lør 25.11.17 10-12 Stallen  12 t nov
+
+--- periode 04.12-17.12
+
+--- periode 18.12-31.12
