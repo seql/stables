@@ -84,7 +84,9 @@ sun 12.11.17 11-13 Stallen
 --- periode 20.11-03.12
 lau 25.11.17 10-12 Stallen  12 t nov  innlevert lister for mars-nov
 lau 02.12.17 11-13 Stallen
+
 --- periode 04.12-17.12
+lau 16.12.17 10-12 Stallen
 
 --- periode 18.12-31.12
 
