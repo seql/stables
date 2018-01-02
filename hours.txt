@@ -90,4 +90,8 @@ lau 16.12.17 10-12 Stallen
 sun 17.12.17 10-12 Stallen
 
 --- periode 18.12-31.12
+lau 23.12.17 10-12 Stallen
+ons 27.12.17 14-16 Stallen
+lau 30.12.17 10-12 Stallen
+
 
