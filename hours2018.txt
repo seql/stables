@@ -29,11 +29,9 @@ søn 17. mar
 søn 25. mar       12 t mar
 
 --- periode 26.03-08.04 (siste AAP, kun halve)
-ons 28. mar
-lør 31. mar
 søn 1. apr
-ons 4. apr
-lør 7. apr
-søn 8. apr
+-ons 4. apr
+-lør 7. apr
+-søn 8. apr
 
 
